@@ -22,7 +22,8 @@ The project was built to answer a practical question I kept running into while a
 ## 📊 Dashboard Preview
 
 ### DA Ecosystem Radar — Stars by Skill Category
-<img width="1038" height="794" alt="image" src="https://github.com/user-attachments/assets/465fc3f6-2726-4da5-b750-2c0271ae65c1" />
+<img width="1806" height="1166" alt="image" src="https://github.com/user-attachments/assets/c76c9630-3abc-4e5b-bf0e-1f251deab448" />
+
 
 
 ### Tool Quadrant — Adoption vs Popularity
